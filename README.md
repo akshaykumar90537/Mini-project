@@ -1,4 +1,4 @@
 # Mini-project
 GENERATE QR CODE
 <br>
-Author : AKSHAY KUMAR
+Author : AKSHAY KUMAR(B.tech)

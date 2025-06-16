@@ -46,7 +46,10 @@ Random number is generated between 0 and 5
 
 Feedback is given whether the user won or lost
 
-How to Run:
+How to Run: 
+bash:
+python number_guess.py
+
 python number_guess.py
 📁 File List
 Hangman_game.py
